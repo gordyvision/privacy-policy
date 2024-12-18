@@ -1,0 +1,35 @@
+Privacy Policy for Animal Sounds For Kids
+Last updated: 12/18/2024
+
+Animal Sounds For Kids ("we", "our", or "us") is a mobile application designed for entertainment and educational purposes. This privacy policy explains how we handle user data, particularly for children under the age of 13, in compliance with applicable privacy laws, including COPPA and GDPR.
+
+1. Information Collection
+We do not knowingly collect, store, or share personal information from users, including children under the age of 13. However, our app integrates third-party services, such as Google AdMob, which may collect limited, non-personal data to display advertisements.
+
+2. Third-Party Advertising
+Our app uses Google AdMob to display ads. Google AdMob may collect non-personally identifiable information, such as:
+
+Device identifiers
+IP address
+Interaction with ads
+These ads are set to comply with COPPA by showing non-personalized ads to children. For more information, please refer to Google’s Privacy Policy.
+
+3. Permissions
+Our app may request certain permissions (e.g., access to the device's internet connection). These permissions are used solely for the app’s functionality and not for collecting personal information.
+
+4. Children's Privacy
+We take children's privacy seriously:
+
+We do not collect personal data from children.
+Advertisements shown are non-personalized, in compliance with COPPA guidelines.
+If you are a parent or guardian and believe that your child has provided us with personal information, please contact us at wild.c4rd.j@gmail.com, and we will promptly delete such data.
+5. Parental Consent
+We recommend that parents or guardians supervise their child’s use of our app. By allowing your child to use the app, you consent to the use of non-personalized advertising services as described in this privacy policy.
+
+6. Changes to This Privacy Policy
+We may update this privacy policy periodically. Any changes will be posted within the app. We encourage you to review this policy regularly.
+
+7. Contact Us
+If you have any questions about this privacy policy or how we handle your child's data, please contact us at:
+
+Email: wild.c4rd.j@gmail.com
